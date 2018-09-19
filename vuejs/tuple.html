@@ -1,0 +1,32 @@
+<html>
+<head>
+  <title>Tuple VueJS</title>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.min.js"></script>
+</head>
+<body>
+  <div id="app">
+  <h1>Antes</h1>
+  <p>a = a</p>
+  <p>b = 1237</p>
+  <h1>Depois</h1>
+  <p>a = {{ a }}</p>
+  <p>b = {{ b }}</p>
+  </div>
+  <script>
+  var a = 'a';
+  var b = 1237;
+
+  new Vue({
+  el: '#app',
+   methods:{
+       swapVars: function() {
+         [a, b] = [b, a]
+       }
+    },
+    beforeMount(){
+      this.swapVars()
+    }
+  });
+  </script>
+</body>
+</html>

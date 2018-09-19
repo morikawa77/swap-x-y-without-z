@@ -1,0 +1,12 @@
+/Users/reginaldomorikawa/Sites/tuples/c#/Tuples/bin/Debug/Tuples.exe
+/Users/reginaldomorikawa/Sites/tuples/c#/Tuples/bin/Debug/Tuples.pdb
+/Users/reginaldomorikawa/Sites/tuples/c#/Tuples/obj/x86/Debug/Tuples.csprojAssemblyReference.cache
+/Users/reginaldomorikawa/Sites/tuples/c#/Tuples/obj/x86/Debug/Tuples.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Sites/tuples/c#/Tuples/obj/x86/Debug/Tuples.exe
+/Users/reginaldomorikawa/Sites/tuples/c#/Tuples/obj/x86/Debug/Tuples.pdb
+/Users/reginaldomorikawa/Sites/tuples/c#/bin/Debug/Tuples.exe
+/Users/reginaldomorikawa/Sites/tuples/c#/bin/Debug/Tuples.pdb
+/Users/reginaldomorikawa/Sites/tuples/c#/obj/x86/Debug/Tuples.csprojAssemblyReference.cache
+/Users/reginaldomorikawa/Sites/tuples/c#/obj/x86/Debug/Tuples.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Sites/tuples/c#/obj/x86/Debug/Tuples.exe
+/Users/reginaldomorikawa/Sites/tuples/c#/obj/x86/Debug/Tuples.pdb
