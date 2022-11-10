@@ -4,7 +4,7 @@
 
 [PHP](https://github.com/morikawa77/swap-x-y-without-z/tree/master/php)
 
-[PYTHON](https://github.com/morikawa77/swap-x-y-without-z/tree/master/php)
+[PYTHON](https://github.com/morikawa77/swap-x-y-without-z/tree/master/python)
 
 [RUBY](https://github.com/morikawa77/swap-x-y-without-z/tree/master/ruby)
 
