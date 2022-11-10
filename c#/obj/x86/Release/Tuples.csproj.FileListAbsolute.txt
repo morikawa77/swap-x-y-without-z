@@ -1,3 +1,0 @@
-/Users/reginaldomorikawa/Sites/tuples/c#/bin/Release/Tuples.exe
-/Users/reginaldomorikawa/Sites/tuples/c#/obj/x86/Release/Tuples.csproj.CoreCompileInputs.cache
-/Users/reginaldomorikawa/Sites/tuples/c#/obj/x86/Release/Tuples.exe

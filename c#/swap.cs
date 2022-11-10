@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace Tuples
+namespace Swap
 {
     class MainClass
     {
